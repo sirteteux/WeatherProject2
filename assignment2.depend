@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1618203676 source:c:\users\andre\onedrive\desktop\assignment2\date.cpp
+	"date.h"
+
+1618203652 c:\users\andre\onedrive\desktop\assignment2\date.h
+	<string>
+	<sstream>
+
+1618203906 source:c:\users\andre\onedrive\desktop\assignment2\time.cpp
+	"time.h"
+
+1618203920 c:\users\andre\onedrive\desktop\assignment2\time.h
+	<string>
+	<sstream>
+
+1618204464 source:c:\users\andre\onedrive\desktop\assignment2\windlog.cpp
+	"windlog.h"
+
+1618198532 c:\users\andre\onedrive\desktop\assignment2\calculate.h
+	"vector.h"
+	<cmath>
+
+1618198499 c:\users\andre\onedrive\desktop\assignment2\vector.h
+	<vector>
+
+1618198198 c:\users\andre\onedrive\desktop\assignment2\windlogtype.h
+	"vector.h"
+	"date.h"
+	"time.h"
+
+1618198518 c:\users\andre\onedrive\desktop\assignment2\bstree.h
+	<stdexcept>
+
+1618198673 c:\users\andre\onedrive\desktop\assignment2\map.h
+	<map>
+
+1618199396 source:c:\users\andre\onedrive\desktop\assignment2\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"windlogtype.h"
+	"windlog.h"
+
+1618204510 c:\users\andre\onedrive\desktop\assignment2\windlog.h
+	<iostream>
+	<string>
+	"calculate.h"
+	"windlogType.h"
+	"BSTree.h"
+	"map.h"
+
+1618206159 source:c:\users\andre\onedrive\desktop\assignment2\testtree.cpp
+	<iostream>
+	<fstream>
+	"BSTree.h"
+	"date.h"
+
+1618207390 source:c:\users\andre\onedrive\desktop\assignment2\date_test5.cpp
+	<iostream>
+	"date.h"
+
+1618207848 source:c:\users\andre\onedrive\desktop\assignment2\time_test2.cpp
+	<iostream>
+	"time.h"
+
+1618203676 source:d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\date.cpp
+	"date.h"
+
+1618203652 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\date.h
+	<string>
+	<sstream>
+
+1618203906 source:d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\time.cpp
+	"time.h"
+
+1618203920 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\time.h
+	<string>
+	<sstream>
+
+1618204464 source:d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\windlog.cpp
+	"windlog.h"
+
+1618217071 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\windlog.h
+	<iostream>
+	<string>
+	"calculate.h"
+	"windlogType.h"
+	"BSTree.h"
+	"map.h"
+
+1618217041 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\calculate.h
+	"vector.h"
+	<cmath>
+
+1618198499 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\vector.h
+	<vector>
+
+1618198198 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\windlogtype.h
+	"vector.h"
+	"date.h"
+	"time.h"
+
+1618198518 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\bstree.h
+	<stdexcept>
+
+1618198673 d:\kaplan\trimester 2\datastructure&abstractions\ict283_34095187_assignment2_v2\map.h
+	<map>
+
